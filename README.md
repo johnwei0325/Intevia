@@ -22,7 +22,6 @@ Add your Gemini API key to `.env.local`:
 ```
 NEXT_GEMINI_API_KEY=your_api_key_here
 ```
-```
 
 4. Running the Electron App
 ```bash
