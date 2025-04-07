@@ -7,7 +7,7 @@
 
 1. Clone the repository
 ```bash
-cd intevia
+cd Intevia
 ```
 
 2. Install dependencies
